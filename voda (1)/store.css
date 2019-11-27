@@ -1,0 +1,95 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (min-width:320px){
+body{
+	background-color:#f4f4f4;
+	
+	
+}
+
+.logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.main {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+	.menu{
+		list-style:none;
+		color: #EAD2D2;
+		text-align: center;
+		font-size: 3em;
+		margin-left: auto;
+        margin-right: auto;
+		
+	}
+	.menu li{
+		color:#F0F0F0;
+		border-radius: 15px;
+		padding: 10px;
+		background-color: #040404;
+		margin-bottom: 3px;
+	}
+	.prod1{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+	h1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 70px;
+		text-align: center;
+		}
+	h2{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 20px;
+		text-align: center;
+		}
+	h3{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 15px;
+		text-align: center;
+	}
+	h4{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 30px;
+		text-align: center;
+	}
+	h5{
+		color:#F7E7E7;
+			display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 35px;
+  text-align: center;
+  padding: 10px;
+  background-color: #000000;
+		}
+	.prod2{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+	.prod3{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%; 
+}
+}
+

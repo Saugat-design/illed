@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (min-width:320px){
+body{
+	background-color:#f4f4f4;
+	
+	
+}
+
+.logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.main {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+	.menu{
+		list-style:none;
+		color: #000000;
+		text-align: center;
+		font-size: 3em;
+		margin-left: auto;
+        margin-right: auto;
+		
+	}
+	.menu li{
+		border-radius: 15px;
+		padding: 10px;
+		background-color: #040404;
+		margin-bottom: 3px;
+	}
+	
+	p{
+		text-align: center;
+		font-family: "Arial", Helvetica, sans-serif;
+		font-size: 30px;
+	}
+	h1 {
+		font-size: 70px;
+		text-align: center;
+	}
+	.essentials{
+		display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+		
+	}
+}
