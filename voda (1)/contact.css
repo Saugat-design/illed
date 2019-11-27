@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (min-width:320px){
+body{
+	background-color:#f4f4f4;
+	
+	
+}
+
+.logo{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+}
+.main {
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+	.menu{
+		list-style:none;
+		color: #EAD2D2;
+		text-align: center;
+		font-size: 3em;
+		margin-left: auto;
+        margin-right: auto;
+		
+	}
+	.menu li{
+		border-radius: 15px;
+		padding: 10px;
+		background-color: #040404;
+		margin-bottom: 3px;
+	}
+	h1{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 70px;
+		text-align: center;
+	}
+}
